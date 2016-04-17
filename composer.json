@@ -1,0 +1,19 @@
+{
+  "name": "puresolcom/popcorna",
+  "description": "Popcorna",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mohammed Anwar",
+      "email": "m.anwar@pure-sol.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Popcorna\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
